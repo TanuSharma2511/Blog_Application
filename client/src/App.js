@@ -16,7 +16,7 @@ import MyPosts from "./components/post/MyPosts";
 import AdventurePost from "./components/post/AdventurePost";
 import SinglePost from "./components/post/SinglePost";
 import Index from "./components/Layout/Index";
-import getStarted from "./components/getStarted";
+
 
 // Redux
 import { Provider } from 'react-redux';
